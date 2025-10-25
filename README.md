@@ -6,23 +6,11 @@ This project demonstrates a complete end-to-end data processing workflow, combin
 
 ## 📁 Folder Structure
 
-Data_Processing_Techniques/
-│
-├── Data_Preprocessing/
-│ ├── spark_preprocessing.py # Apache Spark-based preprocessing script
-│ ├── sample_dataset.csv # Example dataset for testing
-│
-├── RealTime_Data_Streaming/
-│ ├── kafka_producer.py # Kafka Producer – streams real-time data
-│ ├── kafka_consumer.py # Kafka Consumer – processes streamed data
-│
-├── Incremental_Data_Processing/
-│ ├── cdc_incremental_processing.py # Change Data Capture (CDC) with Kafka
-│ ├── incremental_sample_data.json # Example CDC input data
-│
-└── InMemory_Data_Processing/
-├── spark_inmemory_analytics.py # In-memory analytics using Apache Spark
-├── cache_performance_report.txt # Cache optimization & performance results
+- Data_Preprocessing: Spark preprocessing code & sample dataset
+- RealTime_Data_Streaming: Kafka producer & consumer for streaming data
+- Incremental_Data_Processing: CDC incremental processing with Kafka
+- InMemory_Data_Processing: Spark in-memory analytics
+
 
 ---
 
