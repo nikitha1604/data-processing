@@ -167,7 +167,7 @@
 🧠 **End-to-End Data Pipeline Automation**  
 🧾 **Fully Documented & GitHub Ready**
 
-## Submission Ready ✅
+## Submission Done ✅
 - [x] All code functional
 - [x] All documentation included
 - [x] Real-time and batch modules working
